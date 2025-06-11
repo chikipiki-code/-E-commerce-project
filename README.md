@@ -70,5 +70,5 @@ This project showcases not just data cleaning and visualizations but a full-cycl
 - Business analysis  
 - Insight-driven conclusions
 
-✅ **Ready for GitHub, resume portfolio, and recruiter review.**
+
 
